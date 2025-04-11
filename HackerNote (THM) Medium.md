@@ -1,6 +1,6 @@
 A custom webapp, introducing username enumeration, custom wordlists and a basic privilege escalation exploit.
 
-![[machine 1.png]]
+![machine](/img/machine 1.png)
 
 ## **Task 1 Reconnaissance**
 using the nmap tool in my kali linux to find the primary information about the machine . Here the command below
